@@ -1,5 +1,7 @@
 # Game Jam Theme: "Can't Stop"
-Repository for the game "Shine Your Light" by Nightlight Games for the KSU Spring 2022 Game Jam
+Repository for the game "Let Your Light Shine" by Nightlight Games for the KSU Spring 2022 Game Jam.<br />
+
+Name inspiration from Matthew 5:16 ("In the same way, <i>let your light shine</i> before others, so that[a] they may see your good works and give glory to your Father who is in heaven")
 
 # Sticky Idea: you are a nightlight that is not lit and falling to your imminent demise.
 
