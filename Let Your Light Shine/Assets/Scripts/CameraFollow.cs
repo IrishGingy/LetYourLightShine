@@ -9,11 +9,11 @@ public class CameraFollow : MonoBehaviour
 
     void Start()
     {
-        offset = new Vector3(0, -5, -10);
+        offset = new Vector3(0, -4, -10);
     }
 
     void Update()
     {
-        gameObject.transform.position = player.position + offset;
+        gameObject.transform.position = new Vector3(0, player.position.y + offset.y, player.position.z + offset.z);
     }
 }

@@ -3,15 +3,20 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - LeftWall
+  - RightWall
+  - Spikes
+  - Goal
+  - Salvation
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walls
   - Water
   - UI
-  - 
+  - Play Area
   - 
   - 
   - 
@@ -40,4 +45,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 195440733
+    locked: 0
+  - name: Foreground
+    uniqueID: 2108842621
+    locked: 0
+  - name: Player
+    uniqueID: 4087350211
+    locked: 0
+  - name: Animation
+    uniqueID: 1831661623
     locked: 0
